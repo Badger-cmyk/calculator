@@ -4,6 +4,9 @@
 
 A simple functional calculator for basic arithmetic operations built as part of **The Odin Project** course
 
+## Live Demo
+[View Demo](https://badger-cmyk.github.io/calculator/)
+
 ## Features
 - Basic operations
 - Decimal support
